@@ -1,0 +1,6 @@
+#!/usr/bin/groovy
+@Library('jenkins_library') _
+
+node {
+    echo "RAN JOB 2"
+}
